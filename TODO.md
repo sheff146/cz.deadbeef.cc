@@ -5,7 +5,6 @@
 - http://cz.deadbeef.cc/cz/living/uslugi/insurance
 - http://cz.deadbeef.cc/cz/living/cars
 - http://cz.deadbeef.cc/cz/living/diaspora
-- http://cz.deadbeef.cc/cz/living/language
 - http://cz.deadbeef.cc/cz/living/taxes
 
 ## Список статей "к написанию"
